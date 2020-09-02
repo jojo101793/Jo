@@ -45,6 +45,21 @@ Covid <- unique(Covid[ , 1:7 ] )
 saveRDS(Covid,file = "Covid.rds")
 ```
 
+### Text cleaning
+
+### Sentiment analysis
+
+### Plot results
+
+```markdown
+# install packages
+install.packages("rtweet") 
+install.packages("tidytext") 
+# load rtweet library
+library(rtweet)
+# load text mining library
+library(tidytext)
+```
 
 ### Support or Contact
 
