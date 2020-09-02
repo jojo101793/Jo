@@ -52,13 +52,7 @@ saveRDS(Covid,file = "Covid.rds")
 ### Plot results
 
 ```markdown
-# install packages
-install.packages("rtweet") 
-install.packages("tidytext") 
-# load rtweet library
-library(rtweet)
-# load text mining library
-library(tidytext)
+
 ```
 
 ### Support or Contact
